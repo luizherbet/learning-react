@@ -1,0 +1,11 @@
+.products-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: skyblue;
+  justify-content: center;
+}
+
+.products-container div {
+  margin: 0;
+}
